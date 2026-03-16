@@ -1,0 +1,3 @@
+10001,Manuel Garcia III,535.71
+10002,Antonio Lim,357.14
+10003,Bianca Aquino,357.14
