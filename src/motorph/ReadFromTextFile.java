@@ -73,7 +73,7 @@ public class ReadFromTextFile {
                     String[] data = line.split(",");
 
                     // Validate if record contains name and salary
-                    if (data.length != 2) {
+                    if (data.length != 3 ) {
                         System.out.println("Invalid record format: " + line);
                         continue;
                     }
